@@ -22,13 +22,7 @@
    
 
    const firebaseConfig = {
-     apiKey: "AIzaSyBxRyE-OGXaCehXvYYdZoavu66mqUcFIBA",
-  authDomain: "food-panda-project-6d55a.firebaseapp.com",
-  projectId: "food-panda-project-6d55a",
-  storageBucket: "food-panda-project-6d55a.firebasestorage.app",
-  messagingSenderId: "930197825643",
-  appId: "1:930197825643:web:f01144f30234731a34292e",
-  measurementId: "G-ZKTB8DJ9NV"
+     API KEYS
   };
 
   const app = initializeApp(firebaseConfig);
